@@ -39,7 +39,7 @@ Se utilizó un conjunto de datos dividido en entrenamiento y prueba (80%-20%) pa
 ### **Cómo usar este repositorio**
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/random-forest-optimization.git
+   git clone https://github.com/Tuvyow/Modelo-cancer.git
    ```
 2. Instalar los requisitos:
    ```bash
