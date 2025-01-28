@@ -1,5 +1,3 @@
-Aquí tienes una descripción para el repositorio en GitHub, incluyendo el contenido, los datos utilizados y los resultados obtenidos:
-
 ---
 
 ## **Optimización de Random Forest con RandomizedSearchCV**
@@ -53,5 +51,3 @@ Se utilizó un conjunto de datos dividido en entrenamiento y prueba (80%-20%) pa
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
-Puedes ajustar el nombre del repositorio y detalles según lo necesites. Si deseas, también puedo generar los archivos `README.md` y `LICENSE` directamente. ¿Te ayudo con eso?
